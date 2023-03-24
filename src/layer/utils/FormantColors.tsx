@@ -1,0 +1,16 @@
+export const FormantColors = {
+    flagship: "#1C1E2D",
+    silver: "#BAC4E2",
+    white: "white",
+    module: "#2D3855",
+    steel03: "#657197",
+    red: "#EA719D",
+    green: "#2EC495",
+    blue: "#20A0FF",
+    gradient01: ["#FF72CC", "#00E4FF"],
+    mapColor: "#1b2541",
+    occupiedColor: "#4f5f96",
+    primary: "#729fda",
+    critical: "#FF72CC",
+  };
+  
